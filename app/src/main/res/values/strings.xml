@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_open">Open</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_set_red">Red</string>
+    <string name="action_set_green">Green</string>
+    <string name="action_set_blue">Blue</string>
+</resources>

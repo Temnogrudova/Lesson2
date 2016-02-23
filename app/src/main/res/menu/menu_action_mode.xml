@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.temnogrudova.lesson2.MainActivity">
+    <item
+        android:id="@+id/action_set_red"
+        android:orderInCategory="1"
+        android:title="@string/action_set_red"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_set_green"
+        android:orderInCategory="2"
+        android:title="@string/action_set_green"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_set_blue"
+        android:orderInCategory="3"
+        android:title="@string/action_set_blue"
+        app:showAsAction="always" />
+</menu>
